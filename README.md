@@ -1,7 +1,7 @@
 # Powershell-PDFExport
 Powershell Script that exports various file types to PDF format.
 
-##Accepted File Types
+## Accepted File Types
 * Excel (xls, xlsx)
 * Word (doc, docx)
 * PowerPoint (ppt, pptx)
@@ -23,6 +23,6 @@ Powershell Script that exports various file types to PDF format.
 * Xps (Windows XPS Format)
 Currently, only the first page of the XPS file will be exported.
 
-##Requirements
+## Requirements
 * Windows Operating System
 * Microsoft Office
